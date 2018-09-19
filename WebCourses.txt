@@ -9,3 +9,5 @@ CSCI 1100 - Version Control Management
 ITEC 2915 - HTML and CSS
 ITEC 2122 - SEO Basics
 ITEC 2838 - JavaScript
+CSCI 1150 - Introduction to Frameworks 
+CSCI 1155 - Introduction to Cloud Services 
