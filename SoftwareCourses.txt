@@ -1,0 +1,10 @@
+SWATC 1000 - Student Success
+CSCI 1160 - Computer Science Fundamentals
+WKSK 1405 - Work Place Relations
+SWDM 1031 - Intro to Design Principles
+SWDM 1012 - Introduction to Media Design
+CSCI 1100 - Version Control Management
+CSCI 1105 - Introduction to Programming
+CSCI 1110 - Object Oriented Programming
+CSCI 1115 - Algorithms & Data Structures
+ITEC 2905 - Capstone Project
